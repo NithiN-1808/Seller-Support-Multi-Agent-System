@@ -37,10 +37,10 @@ Final Answer
 
 | Metric | Score |
 |---|---|
-| Answer Relevance | — (run `make evaluate`) |
-| Faithfulness | — |
-| Context Precision | — |
-| Task Completion Rate | — |
+| Answer Relevance |  run `make evaluate` to generate  |
+| Faithfulness | run `make evaluate` to generate |
+| Context Precision | run `make evaluate` to generate |
+| Task Completion Rate |  run `make evaluate` to generate |
 
 > Fill in after running evaluation on the 50-question benchmark.
 
@@ -128,4 +128,5 @@ seller-support-agent/
 ├── requirements.txt
 ├── Dockerfile
 └── Makefile
+
 ```
