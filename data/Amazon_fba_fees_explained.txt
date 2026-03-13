@@ -1,0 +1,10 @@
+Amazon FBA fees explained
+
+Amazon FBA (Fulfillment by Amazon) fees include:
+- Fulfillment fees: Based on product size and weight. Small standard items start at $3.22 per unit.
+- Monthly storage fees: $0.87 per cubic foot (Jan-Sep), $2.40 per cubic foot (Oct-Dec)
+- Long-term storage fees: Applied to items stored over 365 days
+- Referral fees: Category-based percentage of sale price (typically 8-15%)
+- Selling plan: Individual ($0.99/item) or Professional ($39.99/month)
+
+Use the FBA Revenue Calculator to estimate fees before sending inventory.
